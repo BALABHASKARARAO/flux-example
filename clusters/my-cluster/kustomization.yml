@@ -4,4 +4,4 @@ metadata:
   name: arbitrary
 resources:
 - ns.yml
-- deploy.yml
+- nginx-deploy.yml
